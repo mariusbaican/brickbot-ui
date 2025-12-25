@@ -3,7 +3,6 @@
     "target": "ESNext",
     "module": "ESNext",
     "moduleResolution": "node",
-    "ignoreDeprecations": "6.0",
     "jsx": "react-jsx",
     "declaration": true,
     "declarationDir": "dist/types",
